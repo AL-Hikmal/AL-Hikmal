@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hello World! I'm AL Hikmal<br> I'm a student from Pinrang, Sulawesi Selatan, Indonesian<br> I'm currently learning many programming language to hone my skills<br> Ask me about vue<br> Fun fact i still like someone
+## Hello World! I'm AL Hikmal👋
 
 
 ## 🌐 Socials:
